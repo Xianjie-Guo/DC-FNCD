@@ -98,5 +98,3 @@ top of the federated CI primitive.
 - The backend is selected automatically: CuPy → PyTorch → NumPy, in order of
   availability.
 - Logic is identical across backends; only the numerical kernels differ.
-- All comments and docstrings have been removed and all source text is in
-  English.

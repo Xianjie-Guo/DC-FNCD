@@ -1,0 +1,23 @@
+{
+  "data_type": "Nonlinear",
+  "graph_type": "er",
+  "n_nodes": 10,
+  "n_edges": 20,
+  "num_client": 10,
+  "sem_type": "gp",
+  "seed": 108,
+  "version": "V1",
+  "samples_per_client": [
+    599,
+    523,
+    517,
+    575,
+    586,
+    582,
+    550,
+    553,
+    506,
+    593
+  ],
+  "total_samples": 5584
+}
